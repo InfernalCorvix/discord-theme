@@ -14,7 +14,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
-@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --accentcolor: 34,58,35;
@@ -34,4 +33,5 @@
   --backgroundsecondaryalt: 3,6,2;
   --backgroundtertiary: 9,14,9;
   --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
 }
