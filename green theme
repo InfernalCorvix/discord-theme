@@ -1,0 +1,51 @@
+/**
+ * @name Basic Green Theme
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --accentcolor: 34,58,35;
+  --accentcolor2: 82,233,108;
+  --linkcolor: 168,220,109;
+  --mentioncolor: 155,196,109;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 185,185,185;
+  --textdark: 140,140,140;
+  --textdarker: 115,115,115;
+  --textdarkest: 50,50,50;
+  --font: Roboto;
+  --backgroundaccent: 85,129,68;
+  --backgroundprimary: 3,6,2;
+  --backgroundsecondary: 5,12,5;
+  --backgroundsecondaryalt: 3,6,2;
+  --backgroundtertiary: 9,14,9;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 3px;
+  --rs-medium-width: 4px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #22CC67;
+  --rs-idle-color: #311473;
+  --rs-dnd-color: #FA1919;
+  --rs-offline-color: #333A44;
+  --rs-streaming-color: #FF00B7;
+  --rs-phone-visible: block;
+}
