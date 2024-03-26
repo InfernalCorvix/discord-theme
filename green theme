@@ -34,11 +34,4 @@
   --backgroundsecondaryalt: 3,6,2;
   --backgroundtertiary: 9,14,9;
   --backgroundfloating: 0,0,0;
-  --settingsicons: 1;
-  --rs-online-color: #22CC67;
-  --rs-idle-color: #311473;
-  --rs-dnd-color: #FA1919;
-  --rs-offline-color: #333A44;
-  --rs-streaming-color: #FF00B7;
-  --rs-phone-visible: block;
 }
